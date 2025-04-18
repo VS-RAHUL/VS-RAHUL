@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VS-RAHUL
 - 👀 I’m Keen to Develop The Modern World Using My Codes
 - 🌱 I’m currently learning Python, HTML, CSS, Java, C, C++ Etc..
-- 💞️ I’m looking forward to enjoy the wholw world of Coding and Programming.
+- 💞️ I’m looking forward to enjoy the whole world of Coding and Programming.
 - 📫 How to reach me ? Use My Mail To Contact Me
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Iam Not Just A Coder, But Beyond That!
